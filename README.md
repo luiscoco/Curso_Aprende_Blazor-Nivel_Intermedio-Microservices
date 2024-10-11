@@ -1,5 +1,7 @@
 # BlazorMicroserviciosPostgreSQL_IMPORTANTE
 
+For more information see this Youtube video: https://www.youtube.com/watch?v=-73fAqw8ckU&t=230s
+
 ## How to run the application
 
 1. Run this command to create the ContentPlatform.Api docker image:
