@@ -80,3 +80,18 @@ See the application output
 
 ![image](https://github.com/user-attachments/assets/4697bff1-e05d-4baa-9ba2-f891f365b337)
 
+![image](https://github.com/user-attachments/assets/cff8bb33-643a-4840-8eaa-aeac03844608)
+
+![image](https://github.com/user-attachments/assets/8109788f-7f27-4c06-b400-35a7df7c034b)
+
+![image](https://github.com/user-attachments/assets/e96b5399-3b31-412d-9252-fc3f235f55e5)
+
+![image](https://github.com/user-attachments/assets/0f659174-28b6-468c-b9df-21ded183346e)
+
+![image](https://github.com/user-attachments/assets/0e584cca-2b92-4743-8a20-e046d2247d71)
+
+![image](https://github.com/user-attachments/assets/84b16f15-bc44-4f74-8ae6-e82b8faa9a72)
+
+![image](https://github.com/user-attachments/assets/77f10d00-cb81-4646-85cd-95762fcc971a)
+
+
