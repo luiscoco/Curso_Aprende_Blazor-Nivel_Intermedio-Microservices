@@ -82,6 +82,8 @@ See the application output
 
 ![image](https://github.com/user-attachments/assets/4697bff1-e05d-4baa-9ba2-f891f365b337)
 
+![image](https://github.com/user-attachments/assets/014c6759-2104-4158-8168-35c7b02205d6)
+
 ![image](https://github.com/user-attachments/assets/cff8bb33-643a-4840-8eaa-aeac03844608)
 
 ![image](https://github.com/user-attachments/assets/8109788f-7f27-4c06-b400-35a7df7c034b)
